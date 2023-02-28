@@ -193,6 +193,11 @@ h1 + p {
   padding: 3px;
   float: left;
 }
+
+.clearfix{
+  display: flow-root;
+}
+
 ul,
 ol {
   margin-left: 2em;
